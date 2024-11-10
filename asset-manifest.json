@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BettaibiMedAli/Weather-App/static/css/main.1bfe24d0.css",
+    "main.js": "/BettaibiMedAli/Weather-App/static/js/main.74eafe6e.js",
+    "static/media/sunset-beach-wallpapers-images_900321-53728.avif": "/BettaibiMedAli/Weather-App/static/media/sunset-beach-wallpapers-images_900321-53728.990e77fce95872715af1.avif",
+    "index.html": "/BettaibiMedAli/Weather-App/index.html",
+    "main.1bfe24d0.css.map": "/BettaibiMedAli/Weather-App/static/css/main.1bfe24d0.css.map",
+    "main.74eafe6e.js.map": "/BettaibiMedAli/Weather-App/static/js/main.74eafe6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bfe24d0.css",
+    "static/js/main.74eafe6e.js"
+  ]
+}
